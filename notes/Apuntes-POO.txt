@@ -1,0 +1,38 @@
+- Molde -> Datos del objeto.
+- Plano -> Blueprint.
+- Hacer galletas
+
+Qué es una clase
+Qué un atributo o campo
+Qué es un método.
+
+
+Caracteristicas o atributos de la POO:
+- Encapsulamiento.
+- Abstracción.
+- Herencia. -> Es-un
+
+
+// Averiguar: Polimorfismo. 
+
+- El punto de entrada a un programa Java es el método main.
+
+- Sintaxis para crear objetos: TipoDato identificador = Constructor();
+
+- Sobrecarga de métodos. También encuentra sobrecarga de constructores.
+
+Constructor:
+- siempre es público.
+- No se especifica valor de retorno
+- Siempre tiene el nombre de la clase
+
+1. ¿Qué hace un método setter?: Nos trae atributos para un
+objeto. Le asigna esos atributos al objeto.
+
+2. ¿Qué hace un método getter?: Nos permite obtener el valor
+de un atributo que tiene un objeto.´
+
+
+
+
+
